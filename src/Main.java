@@ -14,6 +14,12 @@ public class Main {
         omaro.radius="12344555454545455454";
         omaro.color="pink";
 
+        //planet 2
+
+        Planet2 superWomen=new Planet2();
+        superWomen.color="green";
+        superWomen.size="766585879km";
+        superWomen.name="Pliea";
 
     }
 }
