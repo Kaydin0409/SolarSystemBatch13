@@ -15,5 +15,12 @@ public class Main {
         omaro.color="pink";
 
 
+        // developing Planet 1
+        Planet1 superPlanet=new Planet1();
+        superPlanet.color="magenta";
+        superPlanet.name="hash";
+        superPlanet.size="545488km";
+
+
     }
 }
